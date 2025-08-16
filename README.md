@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Gabriel Rangel De Toledo
+Matricula: 899902
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![alt text](images/print_do_desenvolvedor.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![alt text](images/imagens_do_projeto.png)
 
 
 ## Orientações sobre Linguagem MarkDown
